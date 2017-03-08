@@ -61,7 +61,3 @@ This code is available under the [MIT License.] (LICENSE.txt)
 
 <img src="sceneFilter.png" width="240" height="180" border="10" />
 <img src="movieMakerFrames.png" width="240" height="180" border="10" />
-
-<a href="https://gfycat.com/ifr/PaltryInsistentCaterpillar
-" target="_blank"><img src="https://gfycat.com/ifr/PaltryInsistentCaterpillar/0.jpg" 
-alt="TimeLapseVideo_python" width="240" height="180" border="10" /></a>
