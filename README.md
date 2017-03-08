@@ -62,7 +62,6 @@ This code is available under the [MIT License.] (LICENSE.txt)
 <img src="sceneFilter.png" width="240" height="180" border="10" />
 <img src="movieMakerFrames.png" width="240" height="180" border="10" />
 
-
-<iframe src='https://gfycat.com/ifr/PaltryInsistentCaterpillar' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
-
-<div style='position:relative; padding-bottom:57%'><iframe src='https://gfycat.com/ifr/PaltryInsistentCaterpillar' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<a href="https://gfycat.com/ifr/PaltryInsistentCaterpillar
+" target="_blank"><img src="https://gfycat.com/ifr/PaltryInsistentCaterpillar/0.jpg" 
+alt="TimeLapseVideo_python" width="240" height="180" border="10" /></a>
