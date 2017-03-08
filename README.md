@@ -39,13 +39,13 @@ From here, the user views the movie maker file and removes the super bright or d
 
 ## Installation
 
-Download the [ArcToolbox and script (.zip file)] (CrossSections.zip) to try in ArcGIS.
+This script was not meant to be distributed as this was a specific use situation for our camera models.
 
 ## Tests
 
-This script was developed and tested with ArcGIS 10.2, Python 2.7
+This script was developed and tested with Windows 7, command line, Video Lan Converter, Windows Movie Maker
 
-Python modules needed: *acrpy, math, sys, traceback*
+Python modules needed: *os, sys, subprocess, datetime, xml.etree.cElementTree*
 
 ## Contributors
 
@@ -55,14 +55,14 @@ Michael Harris is the author of this script.
 
 [LinkedIN] (https://www.linkedin.com/in/michael-harris-366b0060/)
 
-## Acknowledgements
-
-Some code snippets and ideas were obtained from Mark Ellefson 'Classify Stream Type' script and 'Perpendicular Transects' script by Mateus Ferreira.
-
 ## License
 
 This code is available under the [MIT License.] (LICENSE.txt)
 
-<img src="XSinputs.png" width="240" height="180" border="10" />
-<img src="XSoutput.png" width="240" height="180" border="10" />
-<img src="XSwatershed.png" width="240" height="180" border="10" />
+<img src="sceneFilter.png" width="240" height="180" border="10" />
+<img src="movieMakerFrames.png" width="240" height="180" border="10" />
+
+
+<iframe src='https://gfycat.com/ifr/PaltryInsistentCaterpillar' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
+
+<div style='position:relative; padding-bottom:57%'><iframe src='https://gfycat.com/ifr/PaltryInsistentCaterpillar' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
